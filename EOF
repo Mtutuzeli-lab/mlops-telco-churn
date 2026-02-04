@@ -1,0 +1,28 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+_pycache_/
+*.pyc
+*.pyo
+
+# Environments & credentials
+.env
+.env.*
+*.json
+venv/
+.venv/
+
+#OS / logs
+.DS_Store
+*.log
+EOF
+ls -a
+
+cls
+git add ,gitignore
+git add .gitignore
+git commit -m
+EOF
+pwd
+clear

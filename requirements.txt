@@ -1,0 +1,12 @@
+pandas
+numpy
+scikit-learn
+xgboost
+matplotlib
+seaborn
+pyarrow
+joblib
+google-cloud-bigquery
+google-cloud-storage
+google-cloud-aiplatform
+google-cloud-pipeline-components

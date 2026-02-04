@@ -1,0 +1,7 @@
+PROJECT_ID = 'infinite-mantra-480821-v7'
+LOCATION = 'US'
+RAW_DATASET = 'raw_telco_mlops'
+PROCESSED_DATASET = 'processed_telco_mlops'
+FEATURES_DATASET = 'features_telco_mlops'
+PREDICTIONS_DATASET = 'predictions_telco_mlops'
+BUCKET = 'mlops-telco-bigdata'
